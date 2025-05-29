@@ -285,3 +285,5 @@ betweendigital.com, 45329, RESELLER
 betweendigital.com, 45827, RESELLER
 castify.ai, 1295184, RESELLER
 ucfunnel.com, par-BE7E667E3339AD6BC7BA2887D6E7227A, RESELLER
+advertising.com, 82632, RESELLER
+taurusx.com, 80635, RESELLER
